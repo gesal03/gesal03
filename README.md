@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Welcome%20LHS%20Github&fontSize=40&animation=twinkling)]
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Welcome%20LHS%20Github&fontSize=40&animation=twinkling)
 
 
 ## Hits
