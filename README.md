@@ -1,5 +1,4 @@
-## Hi there 😎
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Lee%20Hyun%20Seung&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Welcome%LHS's%Github&fontSize=40&animation=twinkling)
 
 
 ## Hits
