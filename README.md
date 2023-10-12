@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Welcome%20to%20LHS's%20GitHub%20👋&fontSize=30&animation=twinkling)
 
 
@@ -19,3 +20,5 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
+</div>
