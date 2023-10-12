@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
     <br>
-    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=white">
+    <img src="https://shields.io/badge/react-black?logo=react&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/Yolo-00FFFF?style=flat-square&logo=yolo&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
