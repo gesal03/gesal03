@@ -1,5 +1,5 @@
 ### Hi there 😎
-![header](https://이현승.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&customColorList=0,2,2,5,30))
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <!--
 **gesal03/gesal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
