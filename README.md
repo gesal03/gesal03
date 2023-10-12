@@ -1,5 +1,5 @@
 ### Hi there 😎
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=LeeHyunSeung%20render&fontSize=30&descSize=30animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Lee%20Hyun%20Seung&fontSize=30&descSize=30animation=fadeIn)
 <!--
 **gesal03/gesal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
