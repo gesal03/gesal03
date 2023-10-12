@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
