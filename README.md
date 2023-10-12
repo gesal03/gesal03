@@ -6,7 +6,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)
 
-## 📞 Contact 📞
+### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/_030.3">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
