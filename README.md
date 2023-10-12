@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=yolo&logoColor=white">
+    <img src="https://img.shields.io/badge/Yolo-00FFFF?style=flat-square&logo=yolo&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white">
