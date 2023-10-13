@@ -43,7 +43,6 @@
 
 ﻿<a href="https://github.com/gesal03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&hide=php,c,vim script,objectivec,actionscript,roff,html,javascript,css&langs_count=5&theme=nord" />
-</a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)
 
 
