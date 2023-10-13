@@ -41,6 +41,7 @@
 </div>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=10&layout=compact&theme=dark)](https://github.com/gesal03/gesal03)﻿
 ﻿<a href="https://github.com/gesal03/gesal03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&theme=nord" />
 </a>
