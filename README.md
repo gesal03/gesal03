@@ -6,9 +6,7 @@
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)
 -->
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&pause=1000&color=0E952A&center=true&random=false&width=435&lines=Welcome+to+LHS's+Github)](https://git.io/typing-svg)
--->
+
 
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
