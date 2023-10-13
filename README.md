@@ -41,7 +41,8 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&layout=compact&theme=dark)](https://github.com/gesal03/gesal03)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&layout=compact&theme=dark)](https://github.com/gesal03/gesal03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03)](https://github.com/gesal03/gesal03)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)<br>
 <!-- 프로필
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=WishTree)](https://github.com/gesal03/WishTree)
