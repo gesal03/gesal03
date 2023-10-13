@@ -15,8 +15,8 @@
     </a>
 </div><br>
 
-## 💻 Tech Stack 💻
-### Platforms & Languages
+### 💻 Tech Stack 💻
+#### Platforms & Languages
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white">
 </div>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </div>
 
-### Tools
+#### Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
