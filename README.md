@@ -45,7 +45,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)<br>
 
 ### 📸 I'm working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture/MakeHighlight)](https://github.com/Scapture/MakeHighlight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture-BE)](https://github.com/gesal03/Scapture-BE)
 
 
 
