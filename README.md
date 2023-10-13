@@ -39,7 +39,8 @@
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 </div>
-
+<br>
+---
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&layout=compact&theme=dark)](https://github.com/gesal03/gesal03)﻿
 
 
