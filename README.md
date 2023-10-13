@@ -46,6 +46,8 @@
 
 ### 📸 I'm working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture-BE)](https://github.com/gesal03/Scapture-BE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture-makeHighlight)](https://github.com/gesal03/Scapture-makeHighlight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture-record)](https://github.com/gesal03/Scapture-record)
 
 
 
