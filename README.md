@@ -19,10 +19,15 @@
 ## 💻 Tech Stack 💻
 ### Platforms & Languages
 <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+</div>
+<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </div>
+
+### Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
@@ -32,16 +37,8 @@
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
 </div>
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-</div>
-<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 </div>
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat-square&logoColor=white">
-</div>
+
 
