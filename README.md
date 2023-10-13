@@ -1,4 +1,3 @@
-<div align="center">
 <!--    
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1b4332&fontColor=95d5b2&height=100&section=header&text=Welcome%20to%20LHS's%20GitHub%20👋&fontSize=30&animation=twinkling)
 ---
@@ -46,4 +45,3 @@
     <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat-square&logoColor=white">
 </div>
 
-</div>
