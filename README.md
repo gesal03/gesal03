@@ -44,11 +44,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&layout=compact&theme=dark&hide=powershell,css,html,shell)](https://github.com/gesal03/gesal03)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gesal03)](https://solved.ac/gesal03)<br>
 
-### 📸 I'm working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scapture&repo=AutomaticModule_Server)](https://github.com/Scapture/AutomaticModule_Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scapture&repo=Scapture-Server)](https://github.com/Scapture/Scapture-Server)
-
-
-
-
-
