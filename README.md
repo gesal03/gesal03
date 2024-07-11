@@ -47,7 +47,6 @@
 ### 📸 I'm working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scapture&repo=AutomaticModule_Server)](https://github.com/Scapture/AutomaticModule_Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scapture&repo=Scapture-Server)](https://github.com/Scapture/Scapture-Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gesal03&repo=Scapture-record)](https://github.com/gesal03/Scapture-record)
 
 
 
